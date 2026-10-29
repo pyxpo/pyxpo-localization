@@ -1,5 +1,7 @@
 # pyxpo-localization
 
+[![CI](https://github.com/pyxpo/pyxpo-localization/actions/workflows/ci.yml/badge.svg)](https://github.com/pyxpo/pyxpo-localization/actions/workflows/ci.yml) [![PyPI](https://img.shields.io/pypi/v/pyxpo-localization)](https://pypi.org/project/pyxpo-localization/) [![Python](https://img.shields.io/pypi/pyversions/pyxpo-localization)](https://pypi.org/project/pyxpo-localization/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 The user's languages, region formats and calendar settings for [pyxpo](https://github.com/pyxpo/pyxpo) apps, written
 in Python: preferred languages, currency, number separators, text direction, units, time zone, 12 or 24 hour clock and
 first day of the week. The names follow
